@@ -9,7 +9,6 @@ export async function GET() {
     "/performance-structure",
     "/talent-acquisition",
     "/executive-placement",
-    "/contact",
     "/privacy",
     "/terms",
   ]
