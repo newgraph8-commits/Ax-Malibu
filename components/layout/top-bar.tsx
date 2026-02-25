@@ -33,7 +33,7 @@ export function TopBar() {
             <div className="bg-white/10 rounded-full p-1">
               <Phone className="w-3 h-3" />
             </div>
-            <span className="whitespace-nowrap">CALL 305-914-5000</span>
+            <span className="whitespace-nowrap">CALL 800-222-7205</span>
           </div>
         </div>
       </div>
