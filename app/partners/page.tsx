@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Partners - Ax Arctic",
+  title: "Partners - Ax Malibu",
   description: "Our trusted partners in executive recruitment and talent solutions",
 }
 
@@ -75,11 +75,11 @@ export default function PartnersPage() {
             <div className="max-w-4xl">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 Case studies featuring real-world examples have demonstrated the effectiveness, speed, adaptability, and
-                overall success of Ax Arctic's system.
+                overall success of Ax Malibu's system.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                To integrate Ax Arctic's 12 AC system into your Human Resources framework or to enroll in the Ax Arctic
-                system application, please contact an Ax Arctic representative at:{" "}
+                To integrate Ax Malibu's 12 AC system into your Human Resources framework or to enroll in the Ax Malibu
+                system application, please contact an Ax Malibu representative at:{" "}
                 <a href="mailto:info@axarctic.com" className="text-primary hover:underline font-semibold">
                   info@axarctic.com
                 </a>

@@ -80,7 +80,7 @@ export default function SalesPage() {
                       operational strengths—and exposes any gaps.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full">
-                      Ax Arctic equips clients with the insight, talent, and strategic firepower needed to build and
+                      Ax Malibu equips clients with the insight, talent, and strategic firepower needed to build and
                       sustain high-performing revenue streams through precise, data-driven targeting and market
                       engagement.
                     </p>

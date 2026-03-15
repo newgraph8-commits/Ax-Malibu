@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import { Star } from "lucide-react"
 
 export const metadata = {
-  title: "Why Partner With Us - Ax Arctic",
+  title: "Why Partner With Us - Ax Malibu",
   description: "Outcome-driven excellence and workforce culture strategy",
 }
 
@@ -21,7 +21,7 @@ export default function OutcomeDrivenExcellencePage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-8">Outcome-Driven Excellence</h1>
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
-                The value Ax Arctic delivers—unmatched and inimitable—is rooted in our ability to drive measurable
+                The value Ax Malibu delivers—unmatched and inimitable—is rooted in our ability to drive measurable
                 results and strengthen organizational cohesion. This standard guides every custom solution we create;
                 each one built to advance leadership potential, improve engagement effectiveness, and bring diverse
                 teams into alignment around common objectives. Through this approach, we ensure that every client
