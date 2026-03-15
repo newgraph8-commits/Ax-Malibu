@@ -34,7 +34,7 @@ export default function EntertainmentPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic leverages its extensive network of established industry leaders to provide emerging talent with
+              Ax Malibu leverages its extensive network of established industry leaders to provide emerging talent with
               strategic guidance and direct access to key decision-makers. For many individuals and groups, securing a
               foothold in the entertainment world—whether on-screen or behind the scenes—is difficult without the right
               connections. Our approach helps remove those barriers and opens the door to meaningful opportunities
@@ -79,7 +79,7 @@ export default function EntertainmentPage() {
 
                 <div className="space-y-6">
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    With Ax Arctic, organizations benefit from a focused and efficient process that facilitates
+                    With Ax Malibu, organizations benefit from a focused and efficient process that facilitates
                     meaningful connections with producers, directors, and hiring managers—connections that are not
                     easily obtained elsewhere.
                   </p>

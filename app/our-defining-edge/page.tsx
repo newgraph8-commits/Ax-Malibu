@@ -3,8 +3,8 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Our Defining Edge - Ax Arctic",
-  description: "The Ax Arctic advantage is defined by our global reach and proven excellence in executive search",
+  title: "Our Defining Edge - Ax Malibu",
+  description: "The Ax Malibu advantage is defined by our global reach and proven excellence in executive search",
 }
 
 export default function OurDefiningEdgePage() {
@@ -17,7 +17,7 @@ export default function OurDefiningEdgePage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-12">Our Defining Edge</h1>
             <div className="space-y-6 text-lg text-muted-foreground mb-12">
               <p className="leading-relaxed">
-                At Ax Arctic, complacency is not an option. Our reputation rests on an unyielding commitment to
+                At Ax Malibu, complacency is not an option. Our reputation rests on an unyielding commitment to
                 executing every engagement with precision, discipline, and intensity. This operational mindset reflects
                 the standards of elite military units: anticipate every scenario, prepare for every variable, and leave
                 nothing to chance.
@@ -36,7 +36,7 @@ export default function OurDefiningEdgePage() {
               <div className="space-y-6 text-lg text-muted-foreground">
                 <p className="leading-relaxed">
                   Even the strongest organizations encounter periods of volatility—whether financial, cultural, or
-                  social. Supported by a fortified infrastructure and a deeply experienced team, Ax Arctic is positioned
+                  social. Supported by a fortified infrastructure and a deeply experienced team, Ax Malibu is positioned
                   to stabilize disruption, restore confidence, and rebuild trust among key stakeholders.
                 </p>
                 <p className="leading-relaxed">

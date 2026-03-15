@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import { Users, Globe, TrendingUp, Target } from "lucide-react"
 
 export const metadata = {
-  title: "Unmatched Global Presence - Ax Arctic",
+  title: "Unmatched Global Presence - Ax Malibu",
   description: "Surpassing the limits of traditional senior-leadership evaluation",
 }
 
@@ -21,7 +21,7 @@ export default function UnmatchedGlobalPresensePage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-8">Unmatched Global Presense</h1>
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
-                Surpassing the limits of traditional senior-leadership evaluation, Ax Arctic is equipped to execute
+                Surpassing the limits of traditional senior-leadership evaluation, Ax Malibu is equipped to execute
                 high-visibility searches across the executive spectrum, including placements of industry-leading CEOs
                 and other senior corporate figures.
               </p>
@@ -59,7 +59,7 @@ export default function UnmatchedGlobalPresensePage() {
                     </div>
                     <h3 className="text-xl font-bold text-primary">Worldwide Connections</h3>
                     <p className="text-muted-foreground leading-relaxed">
-                      Ax Arctic's boutique model is built to drive impact—serving as a catalyst in some of the most
+                      Ax Malibu's boutique model is built to drive impact—serving as a catalyst in some of the most
                       competitive arenas and keeping results at the forefront. What sets us apart is not only the
                       breadth of our global access, but our ability to translate those relationships into strategic,
                       market-shaping outcomes. Few firms can match that combination of reach and execution, and our
@@ -79,7 +79,7 @@ export default function UnmatchedGlobalPresensePage() {
                     shortcuts. Every step of the process serves a critical purpose.
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
-                    For example, in our growing education division, Ax Arctic maintains trusted relationships with
+                    For example, in our growing education division, Ax Malibu maintains trusted relationships with
                     school presidents, deans, vice chairs, chancellors, athletic directors, and other key administrators
                     worldwide. In most cases, we can connect a qualified candidate directly with top-level
                     decision-makers with just a single call.
@@ -94,7 +94,7 @@ export default function UnmatchedGlobalPresensePage() {
                 </div>
                 <h3 className="text-xl font-bold text-primary">Long-Term Market Leadership</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Ax Arctic's expert team prides itself on being just a phone call—or discreet meeting—away from placing
+                  Ax Malibu's expert team prides itself on being just a phone call—or discreet meeting—away from placing
                   a highly qualified executive in front of influential decision-makers.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
@@ -102,7 +102,7 @@ export default function UnmatchedGlobalPresensePage() {
                   streamline the high-stakes process of identifying the ideal candidate at the right time?
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Through a structured, detail-driven approach, Ax Arctic begins by collaborating closely with clients
+                  Through a structured, detail-driven approach, Ax Malibu begins by collaborating closely with clients
                   to understand their vision for each critical role—spanning sectors such as education, entertainment,
                   finance, healthcare, law, media, and marketing.
                 </p>

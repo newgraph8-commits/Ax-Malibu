@@ -89,7 +89,7 @@ export default function BoardAssessmentToolsPage() {
                     At its core, the self-assessment process examines the influence and contribution of individual
                     directors—evaluating whether they promote innovation, transparency, and collaboration, while also
                     upholding confidentiality and the integrity of board deliberations. To support this effort, Ax
-                    Arctic has conducted numerous evaluations for boards and companies across a wide range of
+                    Malibu has conducted numerous evaluations for boards and companies across a wide range of
                     industries, drawing on peer reviews, independent analyses, and confidential internal perspectives to
                     measure overall group effectiveness.
                   </p>

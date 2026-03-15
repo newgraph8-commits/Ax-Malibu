@@ -14,14 +14,14 @@ export default function URPOPage() {
 
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Ax Arctic operates with an unwavering commitment to outperform competitors and expand its presence in
+                Ax Malibu operates with an unwavering commitment to outperform competitors and expand its presence in
                 the executive placement market. Through our innovative AX-RPO system, companies gain a clear competitive
                 advantage which delivers both strategic and tangible value without the premium costs typically
                 associated with expert-level services.
               </p>
 
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Through this innovative system, Ax Arctic has elevated the globally recognized Recruitment Process
+                Through this innovative system, Ax Malibu has elevated the globally recognized Recruitment Process
                 Outsourcing framework, introducing more efficient strategies for executive search and organizational
                 development.
               </p>

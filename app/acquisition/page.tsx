@@ -3,7 +3,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Premium Talent Acquisition - Ax Arctic",
+  title: "Premium Talent Acquisition - Ax Malibu",
   description: "Tailored solutions for executive search and talent acquisition",
 }
 
@@ -22,7 +22,7 @@ export default function AcquisitionPage() {
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
                 Organizations today operate in a digital environment that demands both immediate decision-making and
-                long-term strategic vision. Ax Arctic has grown in step with this pace, providing executive search
+                long-term strategic vision. Ax Malibu has grown in step with this pace, providing executive search
                 solutions that translate complex information into clear, actionable leadership strategies. Clients draw
                 on the firm's extensive experience in board governance, management consulting, and senior-level
                 recruitment—expertise that informs every engagement we undertake.
@@ -31,7 +31,7 @@ export default function AcquisitionPage() {
                 Our methodology is built around outcomes. Each engagement is tailored to identify leaders who
                 demonstrate strong potential, effective communication and engagement skills, and the ability to unite
                 cross-functional teams behind shared objectives. This approach is reinforced by the guidance of Ax
-                Arctic's board, whose insight and discipline help ensure our work remains focused, precise, and aligned
+                Malibu's board, whose insight and discipline help ensure our work remains focused, precise, and aligned
                 with the needs of diverse industries.
               </p>
               <p className="leading-relaxed">
@@ -150,10 +150,10 @@ export default function AcquisitionPage() {
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-8">AX-RPO Excellence</h2>
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
-                Companies seeking stronger recruitment infrastructure and improved strategic outcomes increasingly benefit from Ax Arctic&apos;s AX-RPO framework—a proprietary system designed to deliver high-level executive search and talent acquisition capabilities without the premium cost structure. By redefining process implementation, this model gives organizations a measurable competitive advantage, regardless of their global footprint.
+                Companies seeking stronger recruitment infrastructure and improved strategic outcomes increasingly benefit from Ax Malibu's AX-RPO framework—a proprietary system designed to deliver high-level executive search and talent acquisition capabilities without the premium cost structure. By redefining process implementation, this model gives organizations a measurable competitive advantage, regardless of their global footprint.
               </p>
               <p className="leading-relaxed">
-                The AX-RPO approach enhances efficiency across executive search, talent strategy, and organizational development, setting a new standard for modern Recruitment Process Outsourcing. Ax Arctic continues to expand its influence in the executive placement sector, driven by a commitment to outperform industry competitors and deliver superior long-term value.
+                The AX-RPO approach enhances efficiency across executive search, talent strategy, and organizational development, setting a new standard for modern Recruitment Process Outsourcing. Ax Malibu continues to expand its influence in the executive placement sector, driven by a commitment to outperform industry competitors and deliver superior long-term value.
               </p>
             </div>
           </div>
@@ -175,7 +175,7 @@ export default function AcquisitionPage() {
                 inflection points into disciplined learning, decisive action, and sustained performance.
               </p>
               <p className="leading-relaxed">
-                To meet these evolving demands, Ax Arctic continues to strengthen its approach to attracting leading
+                To meet these evolving demands, Ax Malibu continues to strengthen its approach to attracting leading
                 clients and developing culturally dynamic, high-performing talent. Our developers and engineers
                 contribute directly to this effort by creating proprietary technologies that address a broad spectrum of
                 organizational challenges and support smarter, more resilient operations.

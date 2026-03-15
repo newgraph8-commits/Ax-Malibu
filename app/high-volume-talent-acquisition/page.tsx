@@ -16,7 +16,7 @@ export default function HighVolumeTalentAcquisitionPage() {
             </h1>
 
             <p className="text-xl text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic excels in delivering targeted executive placements for leading organizations, while our
+              Ax Malibu excels in delivering targeted executive placements for leading organizations, while our
               customized solutions are equally effective for large-scale recruitment initiatives.
             </p>
 
@@ -34,7 +34,7 @@ export default function HighVolumeTalentAcquisitionPage() {
                 <p className="text-lg text-muted-foreground leading-relaxed">
                   Whether an organization is launching a new product, opening a satellite office, building out an
                   entirely new division, navigating rapid mergers and acquisitions, or preparing a pipeline of future
-                  talent, Ax Arctic's project managers bring the experience and connections needed to manage high-volume
+                  talent, Ax Malibu's project managers bring the experience and connections needed to manage high-volume
                   or multi-position searches with efficiency and precision.
                 </p>
               </div>

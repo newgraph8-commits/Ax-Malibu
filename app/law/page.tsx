@@ -34,7 +34,7 @@ export default function LawPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic unites top-tier legal minds with law firms and corporate legal departments that demand
+              Ax Malibu unites top-tier legal minds with law firms and corporate legal departments that demand
               excellence. Our boutique team—strategists, researchers, negotiators, analysts, and deeply connected legal
               insiders—specializes in placing high-impact professionals through full-time, project-based, or interim
               engagements.
@@ -78,7 +78,7 @@ export default function LawPage() {
                   <div>
                     <h2 className="text-3xl font-bold text-primary mb-4">LAW</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full">
-                      Organizations rely on Ax Arctic for legal talent that aligns with their operational demands,
+                      Organizations rely on Ax Malibu for legal talent that aligns with their operational demands,
                       cultural expectations, and long-term performance goals. Our placements span project-based
                       engagements, interim assignments, and full-time roles, reflecting a long-standing track record of
                       delivering top-tier legal professionals across diverse needs.
@@ -88,7 +88,7 @@ export default function LawPage() {
                   <div>
                     <h3 className="text-2xl font-bold text-primary mb-4">Associate Recruiting</h3>
                     <p className="text-lg text-muted-foreground leading-relaxed mb-4 w-full">
-                      Competition for standout associates intensifies each recruitment cycle. Ax Arctic leverages its
+                      Competition for standout associates intensifies each recruitment cycle. Ax Malibu leverages its
                       nationwide network of analysts, researchers, and legal insiders to reach the country's most
                       accomplished associate candidates before the broader market.
                     </p>
@@ -102,7 +102,7 @@ export default function LawPage() {
                   <div>
                     <h3 className="text-2xl font-bold text-primary mb-4">Partner Placement</h3>
                     <p className="text-lg text-muted-foreground leading-relaxed mb-4 w-full">
-                      Partner transitions are complex, high-stakes, and sensitive. Ax Arctic rejects the
+                      Partner transitions are complex, high-stakes, and sensitive. Ax Malibu rejects the
                       one-size-fits-all model, instead designing highly detailed, custom solutions for each search.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed mb-4 w-full">
@@ -122,7 +122,7 @@ export default function LawPage() {
                     <p className="text-lg text-muted-foreground leading-relaxed mb-4 w-full">
                       As compensation expectations, geographic preferences, lifestyle priorities, specialization trends,
                       and long-term stability continue to reshape the in-house legal landscape, attorneys at all levels
-                      turn to Ax Arctic when preparing for a strategic career move. Whether they are senior partners
+                      turn to Ax Malibu when preparing for a strategic career move. Whether they are senior partners
                       refining their leadership trajectory, mid-level associates exploring new areas of specialization,
                       or private practitioners seeking to move into a primary in-house counsel role.
                     </p>
@@ -133,7 +133,7 @@ export default function LawPage() {
                       role, have you planned appropriately to transition or conclude existing client commitments?
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full">
-                      From early strategic advisory through final compensation negotiations, Ax Arctic provides the
+                      From early strategic advisory through final compensation negotiations, Ax Malibu provides the
                       clarity, discretion, and executive-level guidance necessary to navigate every phase of the process
                       with confidence.
                     </p>

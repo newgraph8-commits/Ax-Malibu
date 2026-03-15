@@ -18,7 +18,7 @@ export default function TalentPerformanceOptimizationPage() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
               <div className="space-y-6 lg:col-span-2">
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  Ax Arctic delivers modern, performance-driven frameworks that refine workflows, strengthen efficiency,
+                  Ax Malibu delivers modern, performance-driven frameworks that refine workflows, strengthen efficiency,
                   reduce unintended consequences, and ensure rewards are closely aligned with measurable outcomes.
                 </p>
 

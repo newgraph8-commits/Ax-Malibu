@@ -158,7 +158,7 @@ export function CallbackForm() {
             <div className="space-y-6">
               <div className="w-full h-px bg-border/60" />
               <p className="text-muted-foreground leading-relaxed text-lg">
-                Ax Arctic delivers trusted expertise in the often overlooked work of building corporate teams. We
+                Ax Malibu delivers trusted expertise in the often overlooked work of building corporate teams. We
                 support executive, director, and staff-level hiring across finance and accounting, IT services, sales,
                 marketing, manufacturing, engineering, human resources, corporate communications, community relations,
                 media relations, and administrative roles.

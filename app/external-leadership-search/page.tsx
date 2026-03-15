@@ -79,7 +79,7 @@ export default function ExternalExecutiveSearchesPage() {
                 {/* Content Text */}
                 <div className="prose prose-lg max-w-none">
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                    Ax Arctic's streamlined approach saves organizations time and resources while highlighting our
+                    Ax Malibu's streamlined approach saves organizations time and resources while highlighting our
                     expertise in executive search and board-level placement. Backed by an extensive network of
                     researchers, negotiators, and coordinators, we bring the experience needed to secure exceptional
                     board members and handle every logistical or contractual detail involved.

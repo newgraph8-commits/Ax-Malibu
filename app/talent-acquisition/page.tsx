@@ -77,7 +77,7 @@ export default function TalentAcquisitionPage() {
                 <div className="space-y-6">
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Organizations today operate in a digital environment that demands both immediate decision-making and
-                    long-term strategic vision. Ax Arctic has grown in step with this pace, providing executive search
+                    long-term strategic vision. Ax Malibu has grown in step with this pace, providing executive search
                     solutions that translate complex information into clear, actionable leadership strategies. Clients
                     draw on the firm's extensive experience in board governance, management consulting, and senior-level
                     recruitment—expertise that informs every engagement we undertake.
@@ -87,7 +87,7 @@ export default function TalentAcquisitionPage() {
                     Our methodology is built around outcomes. Each engagement is tailored to identify leaders who
                     demonstrate strong potential, effective communication and engagement skills, and the ability to
                     unite cross-functional teams behind shared objectives. This approach is reinforced by the guidance
-                    of Ax Arctic's board, whose insight and discipline help ensure our work remains focused, precise,
+                    of Ax Malibu's board, whose insight and discipline help ensure our work remains focused, precise,
                     and aligned with the needs of diverse industries.
                   </p>
                 </div>

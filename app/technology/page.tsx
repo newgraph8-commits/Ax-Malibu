@@ -34,7 +34,7 @@ export default function TechnologyPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic stays in front of the digital curve—tracking, evaluating, and anticipating the shifts that
+              Ax Malibu stays in front of the digital curve—tracking, evaluating, and anticipating the shifts that
               define a data-driven world. From machine learning to advanced analytics and emerging automation, we remain
               aligned with the breakthroughs reshaping global business.
             </p>
@@ -78,7 +78,7 @@ export default function TechnologyPage() {
                     <h2 className="text-3xl font-bold text-primary mb-4">Technology</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
                       As markets accelerate, companies need more than adaptability—they need innovators who can thrive
-                      in a rapidly evolving ecosystem. Ax Arctic delivers exactly that, connecting clients with elite
+                      in a rapidly evolving ecosystem. Ax Malibu delivers exactly that, connecting clients with elite
                       talent capable of redefining what's possible and elevating long-term competitive advantage.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
@@ -87,7 +87,7 @@ export default function TechnologyPage() {
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full">
                       With deep expertise in intellectual property strategy, organizational design, peer-to-peer product
-                      positioning, leadership development, and global financial markets, Ax Arctic ensures an executive
+                      positioning, leadership development, and global financial markets, Ax Malibu ensures an executive
                       search experience that is streamlined, strategic, and energizing from start to finish.
                     </p>
                   </div>

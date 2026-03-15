@@ -18,7 +18,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Ax Arctic",
+  title: "Ax Malibu",
   metadataBase: new URL("https://axfrost.com"),
   icons: {
     icon: [
@@ -34,12 +34,12 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   openGraph: {
-    title: "Ax Arctic",
+    title: "Ax Malibu",
     url: "https://axfrost.com",
     images: null,
   },
   twitter: {
-    title: "Ax Arctic",
+    title: "Ax Malibu",
     card: "summary",
     images: null,
   },
@@ -52,7 +52,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-scroll-behavior="smooth">
       <head>
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="icon" href="/favicon.ico" sizes="any" />

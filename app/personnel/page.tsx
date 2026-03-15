@@ -32,7 +32,7 @@ export default function PersonnelPage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-6">Executive-Level Leadership</h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Matching leadership capability with organizational need requires precision. At Ax Arctic, our work centers
+              Matching leadership capability with organizational need requires precision. At Ax Malibu, our work centers
               on identifying individuals whose technical proficiency, cultural alignment, and leadership potential
               position them for meaningful, long-term impact.
             </p>
@@ -75,7 +75,7 @@ export default function PersonnelPage() {
                   <div>
                     <h2 className="text-3xl font-bold text-primary mb-4">Personnel</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
-                      Ax Arctic partners with organizations across education, entertainment, finance, human resources,
+                      Ax Malibu partners with organizations across education, entertainment, finance, human resources,
                       law, technology, and sales—each benefiting from our disciplined approach to identifying
                       high-caliber talent. Our work spans both executive leadership and critical operational roles,
                       ensuring organizations are equipped with professionals who can sustain performance, strengthen
