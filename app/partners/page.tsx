@@ -80,8 +80,8 @@ export default function PartnersPage() {
               <p className="text-lg text-muted-foreground leading-relaxed">
                 To integrate Ax Malibu's 12 AC system into your Human Resources framework or to enroll in the Ax Malibu
                 system application, please contact an Ax Malibu representative at:{" "}
-                <a href="mailto:info@axarctic.com" className="text-primary hover:underline font-semibold">
-                  info@axarctic.com
+                <a href="mailto:info@axmalibu.com" className="text-primary hover:underline font-semibold">
+                  info@axmalibu.com
                 </a>
               </p>
             </div>
