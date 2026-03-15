@@ -34,7 +34,7 @@ export default function FinancePage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic delivers an executive search experience designed for efficiency, impact, and long-term
+              Ax Malibu delivers an executive search experience designed for efficiency, impact, and long-term
               organizational strength. Our consultants operate from major financial hubs across the globe, bringing
               expertise in intellectual property, organizational strategy, leadership development, peer-to-peer product
               positioning, and the dynamics of international financial markets.
@@ -80,7 +80,7 @@ export default function FinancePage() {
                 <div className="space-y-6">
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     In a marketplace defined by rapid change, financial service organizations must remain agile and
-                    adaptable. Ax Arctic addresses this need by prioritizing versatility and leadership strength in
+                    adaptable. Ax Malibu addresses this need by prioritizing versatility and leadership strength in
                     every search, identifying top-tier executives capable of guiding institutions through both current
                     challenges and emerging industry shifts.
                   </p>

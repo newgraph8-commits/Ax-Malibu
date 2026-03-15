@@ -2,7 +2,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "12 Cylinder Approach - Ax Arctic",
+  title: "12 Cylinder Approach - Ax Malibu",
   description: "Our signature approach to client service and strategic partnerships",
 }
 
@@ -27,7 +27,7 @@ export default function TheBananaAnalogyPage() {
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed mb-16">
               In a constantly shifting digital world, businesses rely heavily on clear, compelling, and well-crafted
-              information. Ax Arctic delivers the insights, systems, and support needed to create and manage this
+              information. Ax Malibu delivers the insights, systems, and support needed to create and manage this
               content with precision and confidence.
             </p>
 
@@ -37,7 +37,7 @@ export default function TheBananaAnalogyPage() {
               <div className="space-y-4">
                 <h2 className="text-2xl font-bold text-primary">Precision-Driven Performance Standards</h2>
                 <p className="text-base text-muted-foreground leading-relaxed">
-                  Ax Arctic rejects cookie-cutter solutions. Just as a high-performance engine depends on every cylinder
+                  Ax Malibu rejects cookie-cutter solutions. Just as a high-performance engine depends on every cylinder
                   firing with perfect timing, effective communication requires tailored strategies—not generic
                   templates. When other firms rely on broad, one-size-fits-all methods, they create inefficiencies and
                   misalignment. We focus on accuracy, customization, and strategic refinement to ensure every component
@@ -51,7 +51,7 @@ export default function TheBananaAnalogyPage() {
                 <p className="text-base text-muted-foreground leading-relaxed">
                   Surface-level checks may give the impression of progress, but they rarely reveal how well a system is
                   truly performing. In the same way, relying on shallow assessments can hide critical issues and limit
-                  growth. Ax Arctic prioritizes deeper analysis, meaningful metrics, and reliable insight—ensuring your
+                  growth. Ax Malibu prioritizes deeper analysis, meaningful metrics, and reliable insight—ensuring your
                   communication engine is genuinely tuned, optimized, and ready to drive results.
                 </p>
               </div>
@@ -60,7 +60,7 @@ export default function TheBananaAnalogyPage() {
               <div className="space-y-4">
                 <h2 className="text-2xl font-bold text-primary">Driven by Purpose and Performance</h2>
                 <p className="text-base text-muted-foreground leading-relaxed">
-                  Ax Arctic operates with intentional focus, ensuring every initiative is actively powered—not left to
+                  Ax Malibu operates with intentional focus, ensuring every initiative is actively powered—not left to
                   chance. We stay engaged throughout the entire process, applying expertise, resources, and strategic
                   oversight to keep your communication engine running at full efficiency. Our commitment is simple:
                   deliver measurable results through disciplined execution and unwavering support.

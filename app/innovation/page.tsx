@@ -3,7 +3,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Innovation Hub - Ax Arctic",
+  title: "Innovation Hub - Ax Malibu",
   description: "Advanced technology recruitment and digital transformation expertise",
 }
 
@@ -24,7 +24,7 @@ export default function InnovationPage() {
                 Data Infrastructure Architecture
               </h2>
               <p className="leading-relaxed">
-                By analyzing technology organizations across global markets, Ax Arctic pinpoints which companies lead in
+                By analyzing technology organizations across global markets, Ax Malibu pinpoints which companies lead in
                 critical technical disciplines and identifies those that have established a strong track record for
                 attracting and retaining top-tier IT talent.
               </p>
@@ -69,7 +69,7 @@ export default function InnovationPage() {
             <h2 className="text-3xl md:text-4xl font-bold text-primary uppercase tracking-wide mb-8">Tech Overview</h2>
             <div className="space-y-6 text-lg text-muted-foreground max-w-5xl">
               <p className="leading-relaxed">
-                Ax Arctic stands at the forefront of modern digital transformation, especially in the rapidly evolving
+                Ax Malibu stands at the forefront of modern digital transformation, especially in the rapidly evolving
                 landscape of data analytics and emerging technologies.
               </p>
               <p className="leading-relaxed">
@@ -77,7 +77,7 @@ export default function InnovationPage() {
                 automation, companies need more than adaptability—they need talent that can shape what comes next.
               </p>
               <p className="leading-relaxed">
-                With a recruitment model built around anticipating future technical demands, Ax Arctic specializes in
+                With a recruitment model built around anticipating future technical demands, Ax Malibu specializes in
                 identifying and securing exceptional innovators for our select clients. We connect organizations with
                 the visionary talent capable of reshaping industries—an essential advantage in a market where true
                 breakthrough thinkers remain in limited supply.
@@ -103,7 +103,7 @@ export default function InnovationPage() {
                   expectations, geographic preferences, and career advancement.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Ax Arctic works to strengthen the market for cybersecurity analysts within our network while helping
+                  Ax Malibu works to strengthen the market for cybersecurity analysts within our network while helping
                   organizations manage these pressures. We prioritize candidates with demonstrated security leadership
                   and evaluate them across key competencies, including strategic planning, risk assessment, management
                   discipline, user training, and operational security.
@@ -127,7 +127,7 @@ export default function InnovationPage() {
                   with autonomous vehicles and robotics.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Supporting this transformation, Ax Arctic administers the full placement cycle for A.I. professionals
+                  Supporting this transformation, Ax Malibu administers the full placement cycle for A.I. professionals
                   and deploys natural-language systems that evaluate candidate information and manage communications in
                   both text and live-chat environments. By maintaining organizational identity and offering real-time
                   communication, these customized platforms facilitate a more efficient onboarding process.
@@ -216,12 +216,12 @@ export default function InnovationPage() {
             <div className="space-y-6 text-lg text-muted-foreground max-w-5xl">
               <p className="leading-relaxed">
                 Well-crafted, accurate, and visually compelling content continues to hold significant influence in a
-                crowded digital landscape, particularly for industry-leading organizations. Ax Arctic provides the
+                crowded digital landscape, particularly for industry-leading organizations. Ax Malibu provides the
                 infrastructure, expertise, and toolset required to deliver this level of content consistently and on
                 schedule.
               </p>
               <p className="leading-relaxed">
-                To support long-term visibility, Ax Arctic maintains ongoing SEO initiatives that strengthen reach
+                To support long-term visibility, Ax Malibu maintains ongoing SEO initiatives that strengthen reach
                 without disrupting internal workflows. These efforts include refining keyword relevance, optimizing
                 shareable assets, updating outdated posts, embedding media, improving page architecture, enhancing title
                 tags, linking to credible authority sources, producing new content, and evaluating competitor activity

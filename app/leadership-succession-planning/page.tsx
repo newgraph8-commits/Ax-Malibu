@@ -72,7 +72,7 @@ export default function LeadershipSuccessionPlanningPage() {
                 </div>
                 <h3 className="text-xl font-bold text-primary">Proven Talent Evaluation Model</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Leadership advancement and development decisions are strengthened through Ax Arctic's tested
+                  Leadership advancement and development decisions are strengthened through Ax Malibu's tested
                   framework, which delivers a clear measure of both existing and emerging talent.
                 </p>
               </div>

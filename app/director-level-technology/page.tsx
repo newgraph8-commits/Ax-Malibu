@@ -91,7 +91,7 @@ export default function TechnologyExecutivePlacementPage() {
 
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                     Because many innovation-focused board members come from outside traditional corporate models,
-                    bridging that gap is essential. Ax Arctic's extensive network and connected principals make this
+                    bridging that gap is essential. Ax Malibu's extensive network and connected principals make this
                     transition seamless.
                   </p>
 

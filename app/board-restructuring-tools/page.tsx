@@ -33,7 +33,7 @@ export default function BoardRestructuringToolsPage() {
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
               By integrating strategic advisory insight, customized executive assessments, and deep recruitment
-              expertise, Ax Arctic has built a sophisticated, multi-tiered framework for evaluating prospective board
+              expertise, Ax Malibu has built a sophisticated, multi-tiered framework for evaluating prospective board
               candidates.
             </p>
 

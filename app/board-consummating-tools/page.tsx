@@ -34,7 +34,7 @@ export default function BoardConsummatingToolsPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic brings the specialized expertise required to guide organizations through the complex transitions
+              Ax Malibu brings the specialized expertise required to guide organizations through the complex transitions
               from executive search consulting to board advisory work.
             </p>
 
@@ -84,7 +84,7 @@ export default function BoardConsummatingToolsPage() {
                   </p>
 
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                    From there, Ax Arctic moves through a coordinated series of steps that includes identifying
+                    From there, Ax Malibu moves through a coordinated series of steps that includes identifying
                     innovative board prospects, gauging their interest in serving, and aligning their backgrounds with
                     the qualifications required for the role. We also evaluate how each candidate might interact within
                     the existing board dynamic before advancing qualified individuals into curated talent pools.

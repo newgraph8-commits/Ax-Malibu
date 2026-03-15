@@ -17,7 +17,7 @@ export default function ExclusiveSearchEngagementsPage() {
 
             <p className="text-xl text-muted-foreground leading-relaxed mb-12">
               Whether an organization requires support for a short-term initiative or a long-term strategic partnership,
-              Ax Arctic's consultants ensure that every engagement makes the most effective use of time, resources, and
+              Ax Malibu's consultants ensure that every engagement makes the most effective use of time, resources, and
               overall impact. Our firm delivers service models that are fully customized to the needs of each client,
               regardless of scale or complexity.
             </p>
@@ -48,7 +48,7 @@ export default function ExclusiveSearchEngagementsPage() {
 
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Ax Arctic remains the sole point of contact from the initial search through a candidate's integration,
+                Ax Malibu remains the sole point of contact from the initial search through a candidate's integration,
                 ensuring consistency and avoiding the handoff model used by many firms. This continuity allows
                 organizations and newly placed leaders to feel supported through every stage of a high-stakes
                 transition—an essential foundation when the work is both critical and mutually beneficial.

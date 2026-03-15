@@ -103,7 +103,7 @@ export default function AboutUsPage() {
           >
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
-                Ax Arctic leads with a true partnership mindset, beginning every engagement with deep, active listening.
+                Ax Malibu leads with a true partnership mindset, beginning every engagement with deep, active listening.
                 We work to understand each client's ideal vision for a critical role—down to culture fit, leadership
                 style, and long-term impact.
               </p>
@@ -130,14 +130,14 @@ export default function AboutUsPage() {
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-12">Our Defining Edge</h2>
             <div className="space-y-6 text-lg text-muted-foreground mb-12">
               <p className="leading-relaxed">
-                At Ax Arctic, complacency is not an option. Our reputation rests on an unyielding commitment to
+                At Ax Malibu, complacency is not an option. Our reputation rests on an unyielding commitment to
                 executing every engagement with precision, discipline, and intensity. This operational mindset reflects
                 the standards of elite military units: anticipate every scenario, prepare for every variable, and leave
                 nothing to chance.
               </p>
               <p className="leading-relaxed">
                 Even the strongest organizations encounter periods of volatility—whether financial, cultural, or social.
-                Supported by a fortified infrastructure and a deeply experienced team, Ax Arctic is positioned to
+                Supported by a fortified infrastructure and a deeply experienced team, Ax Malibu is positioned to
                 stabilize disruption, restore confidence, and rebuild trust among key stakeholders.
               </p>
             </div>
@@ -175,10 +175,10 @@ export default function AboutUsPage() {
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-12">Our Driving Force</h2>
             <div className="space-y-6 text-lg text-muted-foreground mb-12">
               <p className="leading-relaxed">
-                Executives who prioritize precision and strategic clarity increasingly turn to Ax Arctic, confident that
+                Executives who prioritize precision and strategic clarity increasingly turn to Ax Malibu, confident that
                 their career trajectory is supported by a firm equipped with exceptional analytical and advisory
                 capability. Our ability to transform talent acquisition into a disciplined, strategic function has
-                positioned Ax Arctic as the definitive partner for this critical stage of organizational and
+                positioned Ax Malibu as the definitive partner for this critical stage of organizational and
                 professional advancement. The conclusion is simple: you shouldn't look elsewhere, you wouldn't consider
                 it—and ultimately, you won't.
               </p>
@@ -188,7 +188,7 @@ export default function AboutUsPage() {
             <div className="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-8 items-start">
               <div className="space-y-6 text-lg text-muted-foreground">
                 <p className="leading-relaxed">
-                  At the center of this advantage is Ax Arctic's proprietary A-Frame Intelligence Engine, a
+                  At the center of this advantage is Ax Malibu's proprietary A-Frame Intelligence Engine, a
                   next-generation platform containing extensive cross-industry data and advanced analytical models.
                   Designed to outperform the slower, outdated processes still used by traditional firms, the system
                   accelerates decision cycles, compresses search timelines, and consistently produces breakthrough
@@ -216,7 +216,7 @@ export default function AboutUsPage() {
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-8">Unmatched Global Reach</h2>
             <div className="space-y-6 text-lg text-muted-foreground mb-12">
               <p className="leading-relaxed">
-                Surpassing the limits of traditional senior-leadership evaluation, Ax Arctic is equipped to execute
+                Surpassing the limits of traditional senior-leadership evaluation, Ax Malibu is equipped to execute
                 high-visibility searches across the executive spectrum, including placements of industry-leading CEOs
                 and other senior corporate figures.
               </p>
@@ -243,7 +243,7 @@ export default function AboutUsPage() {
                 </div>
                 <h3 className="text-xl font-bold text-primary">PLACEMENT INDUSTRY LEADERSHIP</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  For example, in our growing education division, Ax Arctic maintains strong global relationships with
+                  For example, in our growing education division, Ax Malibu maintains strong global relationships with
                   school presidents, deans, vice chairs, chancellors, athletic directors, and other key educational
                   administrators. In most cases, we can quickly connect a top-tier candidate—such as an administrator or
                   provost—directly with the organization's decision-makers.
@@ -270,7 +270,7 @@ export default function AboutUsPage() {
                 </div>
                 <h3 className="text-xl font-bold text-primary">GLOBAL RELATIONSHIPS</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Ax Arctic's boutique model is built to drive impact—serving as a catalyst in some of the most
+                  Ax Malibu's boutique model is built to drive impact—serving as a catalyst in some of the most
                   competitive arenas and keeping results at the forefront. What sets us apart is not only the breadth of
                   our global access, but our ability to translate those relationships into strategic, market-shaping
                   outcomes. Few firms can match that combination of reach and execution, and our track record continues

@@ -35,7 +35,7 @@ export default function HumanResourcesPage() {
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
               Securing the right talent for front-office corporate functions is one of the most consequential—and often
-              underestimated—drivers of organizational performance. Ax Arctic offers focused expertise in this area,
+              underestimated—drivers of organizational performance. Ax Malibu offers focused expertise in this area,
               partnering with clients to identify and place professionals across a wide range of essential disciplines,
               including accounting, payroll, IT services, human resources, talent development, corporate communications,
               media relations, and community relations. Through this strategic support, we help organizations build the
