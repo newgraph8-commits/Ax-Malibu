@@ -4,8 +4,8 @@ import { Footer } from "@/components/layout/footer"
 import { Users, Target, Globe, TrendingUp } from "lucide-react"
 
 export const metadata = {
-  title: "About Us - Ax Arctic",
-  description: "Ax Arctic has quickly established itself as the new standard in executive search",
+  title: "About Us - Ax Malibu",
+  description: "Ax Malibu has quickly established itself as the new standard in executive search",
 }
 
 export default function AboutUsPage() {
@@ -22,7 +22,7 @@ export default function AboutUsPage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-8">About Us</h1>
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
-                Ax Arctic has quickly established itself as the new standard in executive search—delivering
+                Ax Malibu has quickly established itself as the new standard in executive search—delivering
                 precision-focused service and access to transformative leadership opportunities for a global roster of
                 high-value clients.
               </p>

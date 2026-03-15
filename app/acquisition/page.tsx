@@ -3,7 +3,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Premium Talent Acquisition - Ax Arctic",
+  title: "Premium Talent Acquisition - Ax Malibu",
   description: "Tailored solutions for executive search and talent acquisition",
 }
 
@@ -22,7 +22,7 @@ export default function AcquisitionPage() {
             <div className="space-y-6 text-lg text-muted-foreground">
               <p className="leading-relaxed">
                 Organizations today operate in a digital environment that demands both immediate decision-making and
-                long-term strategic vision. Ax Arctic has grown in step with this pace, providing executive search
+                long-term strategic vision. Ax Malibu has grown in step with this pace, providing executive search
                 solutions that translate complex information into clear, actionable leadership strategies. Clients draw
                 on the firm's extensive experience in board governance, management consulting, and senior-level
                 recruitment—expertise that informs every engagement we undertake.

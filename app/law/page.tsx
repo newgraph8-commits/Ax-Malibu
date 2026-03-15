@@ -34,7 +34,7 @@ export default function LawPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Arctic unites top-tier legal minds with law firms and corporate legal departments that demand
+              Ax Malibu unites top-tier legal minds with law firms and corporate legal departments that demand
               excellence. Our boutique team—strategists, researchers, negotiators, analysts, and deeply connected legal
               insiders—specializes in placing high-impact professionals through full-time, project-based, or interim
               engagements.
