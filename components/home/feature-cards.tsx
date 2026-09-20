@@ -9,7 +9,7 @@ const features = [
     title: "THE AX MALIBU FRAMEWORK",
     description:
       "In today's rapidly evolving digital landscape, where organizations are expected to make swift, data-driven decisions and convert complex information into sustainable strategic direction, Ax Malibu has emerged as a leading force in the executive search industry.",
-    image: "/images/snowjet.jpeg",
+    image: "/images/ax-malibu-framework.jpg",
   },
   {
     title: "PERFORMANCE FOCUSED",
